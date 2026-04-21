@@ -11,4 +11,4 @@ function Student({name,age,course}) {
   )
 }
 
-export default Student
+export default Student//
